@@ -35,12 +35,20 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## Mock-Up
 
-![Image showing a green circle with white text that reads "SVG.".](/Examples/logo.svg)
+![Square](/Examples/logo.svg)
 
 
 ## Usage
 
-To run this application, use the command line to navigate to the directory of the application, install all dependencies (npm i), then type the command node index.js. You will then be taken through a series of questions. Once all questions have been answered properly, a message will display to the command line telling you your logo has been generated. Find your new logo in the newly generated SVG file.
+Use the command line to navigate to the directory of the application.
+
+Install all dependencies (npm i), then type the command node index.js. 
+
+You will then be taken through a series of questions. 
+
+Once all questions have been answered properly, a message will display to the command line telling you your logo has been generated.
+
+Find your new logo in the newly generated SVG file.
 
 ## Visuals
 
@@ -49,6 +57,9 @@ To run this application, use the command line to navigate to the directory of th
 
 ## Test
 
+Open the terminal, and use the command npm test.
+
+![Test](/Images/Untitled_%20Apr%202,%202024%2011_47%20PM.gif)
 
 ## Installation
 
